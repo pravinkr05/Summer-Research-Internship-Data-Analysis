@@ -1,4 +1,4 @@
-# Summer Research Internship - Data Analysis
+# Summer Research Internship 2023 On Data Analysis
 
 ## Overview
 This repository documents the work conducted during the Summer Research Internship at Aliah University in Kolkata. The primary focus was on data analysis, where we delved into various datasets including Titanic, Iris, PriceItem, and GeneSequence.
